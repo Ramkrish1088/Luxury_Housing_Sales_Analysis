@@ -76,5 +76,4 @@ Analyze luxury property transactions in Bengaluru to uncover actionable insights
 
 **👨‍💻 Author**
 --------------
-
-**Muthuramakrishnan R **
+**Muthuramakrishnan R**
